@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LuhnAPIServices\LuhnAPIServices.csproj" />
+    <ProjectReference Include="..\LuhnAPI.Services\LuhnAPI.Services.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -9,3 +9,5 @@
 /SlnLuhnAPI/LihnAPI.Common/obj
 /SlnLuhnAPI/LihnAPI.Common/bin/Release
 /SlnLuhnAPI/LihnAPI.Common/bin/Debug/net8.0
+/SlnLuhnAPI/.vs
+/SlnLuhnAPI/LuhnAPIServices

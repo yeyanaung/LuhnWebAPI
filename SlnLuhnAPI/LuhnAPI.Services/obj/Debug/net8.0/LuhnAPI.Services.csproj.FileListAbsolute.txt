@@ -1,0 +1,12 @@
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\bin\Debug\net8.0\LuhnAPI.Services.deps.json
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\bin\Debug\net8.0\LuhnAPI.Services.dll
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\bin\Debug\net8.0\LuhnAPI.Services.pdb
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.AssemblyInfoInputs.cache
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.AssemblyInfo.cs
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.csproj.CoreCompileInputs.cache
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.sourcelink.json
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.dll
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\refint\LuhnAPI.Services.dll
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\LuhnAPI.Services.pdb
+C:\NZJobs\Projects\LuhnWebAPI\SlnLuhnAPI\LuhnAPI.Services\obj\Debug\net8.0\ref\LuhnAPI.Services.dll
