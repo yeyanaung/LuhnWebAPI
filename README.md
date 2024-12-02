@@ -18,5 +18,5 @@ This API validates credit card numbers using the Luhn algorithm.
  "http://localhost:5000/api/CreditCard/validatecardnumber?cardNumber=4532015112830366"
 
 #### Response
-Success: Validation result
+Success: 200 with Validation result
 Error: 400 Bad Request
