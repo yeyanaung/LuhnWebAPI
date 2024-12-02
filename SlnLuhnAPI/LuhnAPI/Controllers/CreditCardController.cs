@@ -41,8 +41,8 @@ namespace LuhnAPI.Controllers
 
             bool isValid = CreditCardService.IsValid(cardNumber);
             _logger.LogInformation("Validation result for card number {CardNumber}: {IsValid}", cardNumber, isValid);
-
-            return Ok(new { cardNumber, isValid });
+            if(isValid)return Ok(new { cardNumber, isValid });
+            else return BadRequest(new { cardNumber, isValid });
         }
 
         private bool IsNumeric(string value) => value.All(char.IsDigit);
