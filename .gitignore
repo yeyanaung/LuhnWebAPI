@@ -1,1 +1,11 @@
 /SlnLuhnAPI/LuhnAPI/obj
+/SlnLuhnAPI/LuhnAPI/bin/Debug/net8.0
+/SlnLuhnAPI/LuhnAPIServices/obj
+/SlnLuhnAPI/LuhnAPI.Tests/obj
+/SlnLuhnAPI/LuhnAPI.Tests/bin/Release
+/SlnLuhnAPI/LuhnAPI.Tests/bin/Debug/net8.0
+/SlnLuhnAPI/LuhnAPIServices/bin/Release
+/SlnLuhnAPI/LuhnAPIServices/bin/Debug/net8.0
+/SlnLuhnAPI/LihnAPI.Common/obj
+/SlnLuhnAPI/LihnAPI.Common/bin/Release
+/SlnLuhnAPI/LihnAPI.Common/bin/Debug/net8.0
