@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnAPI", "LuhnAPI\LuhnAPI.csproj", "{FB5D636B-1B08-4CEF-9271-EF6E90165505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuhnAPI", "LuhnAPI\LuhnAPI.csproj", "{FB5D636B-1B08-4CEF-9271-EF6E90165505}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuhnAPIServices", "LuhnAPIServices\LuhnAPIServices.csproj", "{F7A333E4-3E62-4C86-A010-782448DCA812}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuhnAPI.Tests", "LuhnAPI.Tests\LuhnAPI.Tests.csproj", "{9097117B-08FD-44F0-90AB-97CDA4A38040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FB5D636B-1B08-4CEF-9271-EF6E90165505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB5D636B-1B08-4CEF-9271-EF6E90165505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB5D636B-1B08-4CEF-9271-EF6E90165505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A333E4-3E62-4C86-A010-782448DCA812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A333E4-3E62-4C86-A010-782448DCA812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A333E4-3E62-4C86-A010-782448DCA812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A333E4-3E62-4C86-A010-782448DCA812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
