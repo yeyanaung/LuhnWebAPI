@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuhnAPIServices", "LuhnAPIS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuhnAPI.Tests", "LuhnAPI.Tests\LuhnAPI.Tests.csproj", "{9097117B-08FD-44F0-90AB-97CDA4A38040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LihnAPI.Common", "LihnAPI.Common\LihnAPI.Common.csproj", "{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9097117B-08FD-44F0-90AB-97CDA4A38040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

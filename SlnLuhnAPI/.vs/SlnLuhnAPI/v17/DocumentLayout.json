@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9097117B-08FD-44F0-90AB-97CDA4A38040}|LuhnAPI.Tests\\LuhnAPI.Tests.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapi.tests\\creditcardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9097117B-08FD-44F0-90AB-97CDA4A38040}|LuhnAPI.Tests\\LuhnAPI.Tests.csproj|solutionrelative:luhnapi.tests\\creditcardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}|LihnAPI.Common\\LihnAPI.Common.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\lihnapi.common\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}|LihnAPI.Common\\LihnAPI.Common.csproj|solutionrelative:lihnapi.common\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapiservices\\creditcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|solutionrelative:luhnapiservices\\creditcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}|LihnAPI.Common\\LihnAPI.Common.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\lihnapi.common\\lihnapi.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E0E1951-1EFA-4F28-B5E6-3B62A8BE0005}|LihnAPI.Common\\LihnAPI.Common.csproj|solutionrelative:lihnapi.common\\lihnapi.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9097117B-08FD-44F0-90AB-97CDA4A38040}|LuhnAPI.Tests\\LuhnAPI.Tests.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapi.tests\\creditcardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9097117B-08FD-44F0-90AB-97CDA4A38040}|LuhnAPI.Tests\\LuhnAPI.Tests.csproj|solutionrelative:luhnapi.tests\\creditcardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapi\\controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|solutionrelative:luhnapi\\controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapi\\luhnapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|solutionrelative:luhnapi\\luhnapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapiservices\\creditcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|solutionrelative:luhnapiservices\\creditcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB5D636B-1B08-4CEF-9271-EF6E90165505}|LuhnAPI\\LuhnAPI.csproj|solutionrelative:luhnapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|c:\\nzjobs\\projects\\luhnwebapi\\slnluhnapi\\luhnapiservices\\luhnapiservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7A333E4-3E62-4C86-A010-782448DCA812}|LuhnAPIServices\\LuhnAPIServices.csproj|solutionrelative:luhnapiservices\\luhnapiservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreditCardValidatorTest.cs",
-              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI.Tests\\CreditCardValidatorTest.cs",
-              "RelativeDocumentMoniker": "LuhnAPI.Tests\\CreditCardValidatorTest.cs",
-              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI.Tests\\CreditCardValidatorTest.cs",
-              "RelativeToolTip": "LuhnAPI.Tests\\CreditCardValidatorTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:06:39.916Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreditCardService.cs",
-              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\CreditCardService.cs",
-              "RelativeDocumentMoniker": "LuhnAPIServices\\CreditCardService.cs",
-              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\CreditCardService.cs",
-              "RelativeToolTip": "LuhnAPIServices\\CreditCardService.cs",
+              "Title": "LihnAPI.Common",
+              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LihnAPI.Common\\LihnAPI.Common.csproj",
+              "RelativeDocumentMoniker": "LihnAPI.Common\\LihnAPI.Common.csproj",
+              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LihnAPI.Common\\LihnAPI.Common.csproj",
+              "RelativeToolTip": "LihnAPI.Common\\LihnAPI.Common.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T18:34:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LihnAPI.Common\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "LihnAPI.Common\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LihnAPI.Common\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "LihnAPI.Common\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:06:24.809Z",
+              "WhenOpened": "2024-12-02T18:33:46.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LuhnAPI.csproj",
-              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\LuhnAPI.csproj",
-              "RelativeDocumentMoniker": "LuhnAPI\\LuhnAPI.csproj",
-              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\LuhnAPI.csproj",
-              "RelativeToolTip": "LuhnAPI\\LuhnAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T17:35:54.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LuhnAPI\\Program.cs",
-              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\Program.cs",
-              "RelativeToolTip": "LuhnAPI\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:31:04.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CreditCardController.cs",
               "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\Controllers\\CreditCardController.cs",
               "RelativeDocumentMoniker": "LuhnAPI\\Controllers\\CreditCardController.cs",
               "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI\\Controllers\\CreditCardController.cs",
               "RelativeToolTip": "LuhnAPI\\Controllers\\CreditCardController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCcAAAAgAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:34:10.374Z",
+              "WhenOpened": "2024-12-02T18:31:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardValidatorTest.cs",
+              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI.Tests\\CreditCardValidatorTest.cs",
+              "RelativeDocumentMoniker": "LuhnAPI.Tests\\CreditCardValidatorTest.cs",
+              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPI.Tests\\CreditCardValidatorTest.cs",
+              "RelativeToolTip": "LuhnAPI.Tests\\CreditCardValidatorTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:23:39.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardService.cs",
+              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\CreditCardService.cs",
+              "RelativeDocumentMoniker": "LuhnAPIServices\\CreditCardService.cs",
+              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\CreditCardService.cs",
+              "RelativeToolTip": "LuhnAPIServices\\CreditCardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:18:38.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LuhnAPIServices",
+              "DocumentMoniker": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\LuhnAPIServices.csproj",
+              "RelativeDocumentMoniker": "LuhnAPIServices\\LuhnAPIServices.csproj",
+              "ToolTip": "C:\\NZJobs\\Projects\\LuhnWebAPI\\SlnLuhnAPI\\LuhnAPIServices\\LuhnAPIServices.csproj",
+              "RelativeToolTip": "LuhnAPIServices\\LuhnAPIServices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T18:18:42.112Z",
               "EditorCaption": ""
             }
           ]

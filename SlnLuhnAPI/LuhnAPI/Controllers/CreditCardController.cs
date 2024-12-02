@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using LuhnAPIServices;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 
@@ -37,7 +38,7 @@ namespace LuhnAPI.Controllers
                 return BadRequest(new { message = "Invalid credit card number. It must be a numeric string of 15 or 16 digits." });
             }
 
-            bool isValid = true;
+            bool isValid = CreditCardService.IsValid(cardNumber);
             _logger.LogInformation("Validation result for card number {CardNumber}: {IsValid}", cardNumber, isValid);
 
             return Ok(new { cardNumber, isValid });
