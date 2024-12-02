@@ -1,4 +1,5 @@
-﻿using LuhnAPIServices;
+﻿
+using LuhnAPIServices;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
